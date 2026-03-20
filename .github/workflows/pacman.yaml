@@ -17,12 +17,12 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@b7c1f2c9f1e7c9d0c3a5f9c8d7e6a4b3c2d1e0f # contoh SHA
+        uses: abozanona/pacman-contribution-graph@9eca7a760e7630f98079be52518346637b47c553
         with:
           github_user_name: kai-zenn
 
       - name: push pacman-contribution-graph.svg
-        uses: crazy-max/ghaction-github-pages@6f1c3a9d8b7e5c4f2a1d0e9c8b7a6f5e4d3c2b1a # contoh SHA
+        uses: crazy-max/ghaction-github-pages@d3b196049971032ad163592b87434e8079ada7ff
         with:
           target_branch: output
           build_dir: dist
