@@ -45,8 +45,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai-zenn/kai-zenn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai-zenn/kai-zenn/output/pacman-contribution-graph.svg">
-  <!-- ![Pac-Man Contribution Graph]
-  (https://pacman.abozanona.me/kai-zenn) -->
+  ![pacman](https://raw.githubusercontent.com/kai-zenn/kai-zenn/output/dist/pacman-contribution-graph.svg)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kai-zenn/kai-zenn/output/pacman-contribution-graph.svg">
 </picture>
 
