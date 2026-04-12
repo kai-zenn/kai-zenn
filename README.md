@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Gibrant Syahreza Wijaya, I'm just an average vocational high school student that have a burning passion for creating a seamless digital experiences that'll going to elevate the way you interact with the internet. <br><br>I'm specialized on Full-Stack development and also Mobile Development. Proven track record across 4+ real-world projects, I bring a unique blend of creativity, innovation, and technical expertise to every project. With an enthuastic spirit, I am ready to help bring your ideas to life.</h3>
+<h3 align="left">My name is Gibrant Syahreza Wijaya, I'm just an average vocational high school student that have a burning passion for creating a seamless digital experiences that'll going to elevate the way you interact with the internet. <br><br>I'm specialized on Full-Stack development and also Mobile Development. With track record across more than 5+ real-world projects, I bring a unique blend of creativity, innovation, and technical expertise to every project. With an enthuastic spirit, I am ready to help bring your ideas to life.</h3>
 
 ###
 
